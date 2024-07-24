@@ -7,9 +7,6 @@
 /vendor
 .env.backup
 .env.production
-.editorconfig
-.apache-config.config
-.entrypoint.sh
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
